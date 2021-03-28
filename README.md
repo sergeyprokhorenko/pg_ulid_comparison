@@ -1,5 +1,5 @@
 # pg_ulid_comparison
-Comparison of ULIDs for PostgreSQL
+Comparison of ULID generation functions for PostgreSQL
 
 Author | Repository | Stars | Ops/sec | Language | CSPRNG | Monotonicity | String format | Binary format | UUID format | Integer format | Last commit
 --- | :---: | :---: | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
