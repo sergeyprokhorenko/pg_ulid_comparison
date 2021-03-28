@@ -1,7 +1,7 @@
 # pg_ulid_comparison
-Comparison of ULID generation functions for PostgreSQL
+Comparison of [ULID](https://github.com/ulid/spec) generation functions for PostgreSQL
 
-Author | Repository | Stars | Ops/sec | Language | CSPRNG | Monotonicity | String format | Binary format | UUID format | Integer format | Last commit
+Author | Repository | Stars | Ops/sec | Language | [CSPRNG](https://en.wikipedia.org/wiki/Cryptographically_secure_pseudorandom_number_generator) | [Monotonicity](https://github.com/ulid/spec#monotonicity) | String format | Binary format | [UUID format](https://postgrespro.ru/docs/postgresql/13/datatype-uuid?lang=en) | Integer format | Last commit
 --- | :---: | :---: | ---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---:
 [Edoceo, Inc.](https://github.com/edoceo) | [edoceo/pg-ulid](https://github.com/edoceo/pg-ulid) | 8 | 98359 | C | ✓ | ✓ | - | ✓ | - | - | 2019-10-29
 [Vahagn Mkrtchyan](https://github.com/iCyberon) | [iCyberon/pg_ulid](https://github.com/iCyberon/pg_ulid) | 26 | ? | Go | ✓ | WIP | ✓ | WIP | - | - | 2021-03-28
